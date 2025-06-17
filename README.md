@@ -3,7 +3,7 @@
 
 # 2D to 3D Video Conversion
 
-**Author:** Saurabh Kumar Singh (MSA23011)  
+**Author:** Saurabh Kumar Singh 
 
 
 ## Abstract
@@ -197,6 +197,33 @@ converter.convert_video(
 - Medical imaging
 - Autonomous navigation
 - Entertainment industry
+
+#Result Gallery
+![download](https://github.com/user-attachments/assets/7a5538c4-d4ed-49b5-ac35-0bb0061c3c57)
+Left part is input image  and right side is depth image 
+
+
+
+
+<img width="657" alt="not much good 3d effect" src="https://github.com/user-attachments/assets/ee8aa32d-bf1d-407a-8c79-3935123170a5" />
+
+
+
+
+
+
+<img width="527" alt="928b62f576af0e552194729a99051fb2d3b5641b" src="https://github.com/user-attachments/assets/4ee696ea-07f5-492b-9c70-13849ee1e485" />
+
+
+
+![Edge Map](https://github.com/user-attachments/assets/e567473c-c307-4504-a470-8117a87a41e5)
+
+
+
+
+
+
+
 
 
 
